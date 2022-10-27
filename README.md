@@ -7,6 +7,7 @@
 <h3>Jogo de Pedra, Papel e Tesoura feito com o intuito de estudo.</h3>
 <h3>Game made for the purpose of study.</h3>
 
+> <h3>✔️Tecnologias utilizadas/Technologies used</h3>
 - [Python 3.9](https://www.python.org/)
 - [OS](https://docs.python.org/3/library/os.html)
 
