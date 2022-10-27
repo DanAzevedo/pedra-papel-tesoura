@@ -1,5 +1,10 @@
 <h1>Pedra, Papel e Tesoura.</h1>
 
+[![GitHub license](https://img.shields.io/github/license/DanAzevedo/pedra-papel-tesoura?style=for-the-badge)](https://github.com/DanAzevedo/pedra-papel-tesoura/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DanAzevedo/pedra-papel-tesoura?style=for-the-badge)](https://github.com/DanAzevedo/pedra-papel-tesoura/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/DanAzevedo/pedra-papel-tesoura?style=for-the-badge)](https://github.com/DanAzevedo/pedra-papel-tesoura/network)
+[![GitHub issues](https://img.shields.io/github/issues/DanAzevedo/pedra-papel-tesoura?style=for-the-badge)](https://github.com/DanAzevedo/pedra-papel-tesoura/issues)
+
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20TEST&color=blueviolet&style=for-the-badge"/> 
 </p>
